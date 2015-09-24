@@ -1,6 +1,10 @@
 Publish subscriber using [GO](http://www.golang.com) and [RabbitMQ](https://www.rabbitmq.com)
 =========================
 
+# Status
+*BETA*
+[![Build Status](https://travis-ci.org/gvarihendrix/pub_sub.svg?branch=master)](http://travis-ci.org/gvarihendrix/pub_sub)
+
 # Goals
 
 Provide a publish subscriber model where RabbitMQ is in the middle of
